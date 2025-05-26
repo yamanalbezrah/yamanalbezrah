@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yamanalbezrah
 - 👀 I’m interested in programming and sports
-- 🌱 I’m currently a highschool student
+- 🌱 I’m currently a Systems Design Engineering student at UW
 - 📫 You can reach me by email at yamanalbezrah@gmail.com
 - Replit Account: https://replit.com/@YamanAlbezreh
