@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @yamanalbezrah
-- 👀 I’m interested in programming and sports
-- 🌱 I’m currently a Systems Design Engineering student at UW
-- 📫 You can reach me by email at yamanalbezrah@gmail.com
-- Replit Account: https://replit.com/@YamanAlbezreh
+University of Waterloo - Systems Design Engineering student
+yamanalbezrah@gmail.com   yalbezre@uwaterloo.ca
+Replit Account: https://replit.com/@YamanAlbezreh
